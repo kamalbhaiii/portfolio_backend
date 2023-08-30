@@ -1,0 +1,13 @@
+{
+    "database": {
+        "url": "mongodb+srv://kamal:kamal@cluster0.z6elfps.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "api": {
+        "url": "http://localhost",
+        "port": 9999
+    },
+    "app": {
+        "url": "http://localhost",
+        "port": 5173
+    }
+}
